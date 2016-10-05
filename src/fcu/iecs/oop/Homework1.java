@@ -6,8 +6,7 @@ public class Homework1 {
 		
 		String lyrics = "Let it go! Let it go! Cannot hold it back anymore";
 		String a = lyrics.replaceAll("Cannot", "Can't");
-		
-		
+				
 		System.out.println(a.replaceAll("it","her"));
 	}
 
